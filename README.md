@@ -9,7 +9,7 @@ To get started with this repository, follow these steps:
 1. Clone the repository to your local machine:
 
 ``` sh
-$ git clone ***
+$ git clone https://github.com/PabloBerrettoni/terraform-scaleway-instance.git
 ```
 
 2. Install required dependencies: terraform & terraform-docs
